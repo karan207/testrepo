@@ -4,6 +4,7 @@ import './App.css';
 
 import { GlobalProvider } from './context/GlobalContext.js';
 
+/*some comment added*/
 import Header from './header/header.js';
 import Register from './pages/register.js';
 import Login from './pages/login.js';
